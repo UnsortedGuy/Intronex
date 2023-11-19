@@ -1,0 +1,9 @@
+let digit = 25;
+let fract = 25.03;
+let exp = 2e10; // 20000000000
+let expSmall = 2e-3; // 0.002
+let expFract = 1.25e3; //1250
+let expFractSmall = 1.25e-3; // 0.00125
+let fract1 = 25.;
+let fract2 = .25;
+
